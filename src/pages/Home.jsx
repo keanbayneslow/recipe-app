@@ -6,8 +6,8 @@ import React from 'react'
 function Home() {
 return (
     <div>
-        <Vege />
         <Popular />
+        <Vege />
     </div>
 )
 }
